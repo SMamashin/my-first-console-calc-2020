@@ -1,1 +1,3 @@
-# my-first-console-calc-2020
+# Hello
+calc.py - written in 2020
+my first console calc with use function!
